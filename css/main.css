@@ -1,25 +1,27 @@
 
-#verde1{
+#verde1, #verde2{
     background: greenyellow;
     height: 80px;
     text-align: center;
     font-style: italic;
-    line-height: 60px;
+    line-height: 80px;
 }
 
-#gris1, #gris2, #gris3, #gris4{
+.azul{
     background: #87aade;
     height: 150px;
     color: black;
 }
 
-#a, #b, #c, #d{
+.letras{
     background: #cccccc;
     height: 150px;
     color: black;
+    line-height: 150px;
+    text-align: center;
 }
 
-#tablet, #mobile, #desktop{
+.dispositivos{
     background: aqua;
     height: 60px;
     text-align: center;
@@ -27,7 +29,7 @@
     line-height: 60px;
 }
 
-#cara1, #cara2{
+.caras{
     background: orange;
     height: 80px;
     text-align: center;
@@ -36,9 +38,6 @@
 }
 
 #verde2{
-    background: greenyellow;
     height: 60px;
-    text-align: center;
-    font-style: italic;
     line-height: 60px;
 }
